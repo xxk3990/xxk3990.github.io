@@ -1,0 +1,19 @@
+h1 {
+    color: black;
+    text-align: center;
+    font-size: 40px;
+    font-family: didot;
+}
+#portrait {
+        margin:0px;
+        padding:0px;
+        width:15%;
+        float: left;
+        padding-right:220px;
+}
+img{
+    max-width: 400px;
+}
+body {
+    background-color: darkgreen;
+}
